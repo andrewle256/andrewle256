@@ -24,3 +24,15 @@
   <img src="https://streak-stats.demolab.com?user=andrewle256&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
+## 🧠 Mathematical Wisdom
+<div align="center" style="
+  background: linear-gradient(135deg, #1a1b26, #2a2b3c, #3c3d5a);
+  border-radius: 20px;
+  padding: 20px;
+  max-width: 550px;
+  margin: 20px auto;
+  color: #e0e7ff;
+  font-family: monospace;
+">
+
+```math P(CodeWorks) = 1 - ε 
