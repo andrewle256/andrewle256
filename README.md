@@ -2,7 +2,7 @@
 🎓 Studying Mathematics, Economics, and Public Law @ UofT<br/>
 ⚖️ Build with first principles, optimize with algorithms, and think in constraints<br/>
 💻 On a mission to blend AI, finance & logic into tools that actually maximize alpha<br/>
-📍 Based in North America, dreaming globally 🌍<br/>
+📍 Based in North America, aspiring to be a venture capitalist 🌍<br/>
 
 
 # 💻 Tech Stack:
