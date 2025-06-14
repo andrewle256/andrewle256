@@ -25,17 +25,40 @@
 </div>
 
 ### 🔬 Theorem of Development
-<div align="center" style="background: linear-gradient(135deg, #1a2a6c, #2a4b8d, #3a6ea5); 
-border-radius: 12px; padding: 16px; border-left: 4px solid #4CAF50; margin: 20px 0;">
-
-> <span style="font-size: 1.2em; color: #FFD700;">☕</span>  
-> <span style="font-family: 'Courier New', monospace; font-size: 1.1em;">
-> P(CodeWorks) = 1 - ε  
-> where ε ∝ 1/Caffeine<sub>blood</sub>  
-> </span>
-> <div style="text-align: right; margin-top: 10px; font-style: italic; color: #B0BEC5;">
-> — Strong Law of Small Numbers ∙ <span style="color: #4CAF50;">Proof: Trivial</span>
-> </div>
+## 🧠 Mathematical Wisdom
+<div align="center">
+  <svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1a1b26" />
+        <stop offset="50%" stop-color="#2a2b3c" />
+        <stop offset="100%" stop-color="#3c3d5a" />
+      </linearGradient>
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+        <feFlood flood-color="#22c55e" result="glowColor"/>
+        <feComposite in="glowColor" in2="blur" operator="in" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="100%" height="100%" rx="20" fill="url(#gradient)" filter="url(#glow)"/>
+    <text x="50%" y="40%" text-anchor="middle" fill="#FFD700" font-size="48" font-family="monospace" filter="url(#glow)">
+      ☕
+    </text>
+    <text x="50%" y="60%" text-anchor="middle" fill="#22c55e" font-size="24" font-family="monospace">
+      P(CodeWorks) = 1 - ε
+    </text>
+    <text x="50%" y="70%" text-anchor="middle" fill="#22c55e" font-size="24" font-family="monospace">
+      where ε ∝ 1/Caffeine<tspan baseline-shift="sub" font-size="18">blood</tspan>
+    </text>
+    <text x="85%" y="90%" text-anchor="middle" fill="#a5b4fc" font-size="18" font-family="monospace" font-style="italic">
+      — Strong Law of Small Numbers ∙ 
+      <tspan fill="#d946ef" font-weight="700">Proof: Trivial</tspan>
+    </text>
+  </svg>
 </div>
 
 
