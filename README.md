@@ -35,4 +35,5 @@
   font-family: monospace;
 ">
 
-```math P(CodeWorks) = 1 - ε 
+```math 
+P(CodeWorks) = 1 - ε 
