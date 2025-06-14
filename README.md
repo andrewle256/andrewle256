@@ -24,7 +24,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=andrewle256&icon=0&color=1)](https://visitcount.itsvg.in)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
