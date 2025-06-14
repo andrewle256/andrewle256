@@ -24,33 +24,56 @@
   <img src="https://streak-stats.demolab.com?user=andrewle256&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
+## 🧠 Mathematical Wisdom
 <div align="center" style="
-  background: linear-gradient(135deg, #121217, #1f2233);
-  border-radius: 16px;
-  padding: 40px 50px;
-  margin: 30px 0;
-  border: 2px solid #4CAF50;
-  box-shadow: 0 8px 20px rgba(76, 175, 80, 0.25);
-  font-family: 'Fira Mono', 'Courier New', monospace;
-  color: #cdd6f4;
-  max-width: 600px;
+  background: linear-gradient(135deg, #1a1b26, #2a2b3c, #3c3d5a);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 25px 0;
+  border: 1px solid #4CAF50;
+  box-shadow: 0 0 15px rgba(76, 175, 80, 0.3);
+  font-family: 'Courier New', monospace;
+  color: #e0e7ff;
   text-align: center;
-  user-select: text;
-  transition: box-shadow 0.3s ease;
+  position: relative;
 ">
-  <h2 style="font-weight: 700; font-size: 1.8rem; margin-bottom: 15px; color: #a3be8c;">
-    🧠 Mathematical Wisdom
-  </h2>
-  <pre style="
-    font-size: 1.15rem;
-    background: #272c41;
-    padding: 20px 25px;
-    border-radius: 12px;
-    border: 1px solid #3a416f;
-    overflow-x: auto;
-    user-select: text;
-  "><code>
-\large \text{Theorem of Development:}
-  </code></pre>
+
+<div style="font-size: 1.3em; color: #ffd700; margin-bottom: 15px;">
+  Theorem of Development:
+</div>
+
+<div style="font-size: 1.1em; color: #22c55e; margin: 10px 0; font-family: 'Courier New', monospace;">
+  P(CodeWorks) = 1 - ε
+</div>
+
+<div style="font-size: 1.1em; color: #22c55e; margin: 10px 0 20px; font-family: 'Courier New', monospace;">
+  where ε ∝ 1/Caffeine<sub>blood</sub>
+</div>
+
+<div style="
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 2.5rem;
+  color: #f472b6;
+">☕</div>
+
+<div style="
+  text-align: right;
+  margin-top: 20px;
+  font-style: italic;
+  color: #a5b4fc;
+">
+— Strong Law of Small Numbers • <span style="color: #d946ef; font-weight: bold;">Proof: Trivial</span>
+</div>
+
+<div style="
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #22c55e, transparent);
+"></div>
 </div>
 
