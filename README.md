@@ -24,11 +24,19 @@
   <img src="https://streak-stats.demolab.com?user=andrewle256&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔬 Theorem of Development
+<div align="center" style="background: linear-gradient(135deg, #1a2a6c, #2a4b8d, #3a6ea5); 
+border-radius: 12px; padding: 16px; border-left: 4px solid #4CAF50; margin: 20px 0;">
 
----
-[![](https://visitcount.itsvg.in/api?id=andrewle256&icon=0&color=1)](https://visitcount.itsvg.in)
+> <span style="font-size: 1.2em; color: #FFD700;">☕</span>  
+> <span style="font-family: 'Courier New', monospace; font-size: 1.1em;">
+> P(CodeWorks) = 1 - ε  
+> where ε ∝ 1/Caffeine<sub>blood</sub>  
+> </span>
+> <div style="text-align: right; margin-top: 10px; font-style: italic; color: #B0BEC5;">
+> — Strong Law of Small Numbers ∙ <span style="color: #4CAF50;">Proof: Trivial</span>
+> </div>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
