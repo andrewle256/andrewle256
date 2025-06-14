@@ -24,7 +24,26 @@
   <img src="https://streak-stats.demolab.com?user=andrewle256&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-[![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-4caf50?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/)
+<div align="center">
+
+## 🧠 Mathematical Wisdom
+
+---
+
+### ✨ **Theorem of Development**
+
+
+> where **ε ∝ 1/Caffeine_blood**
+
+☕️
+
+---
+
+<sub>
+<strong>— Strong Law of Small Numbers</strong> • <span style="color:#d946ef"><b>Proof: Trivial</b></span>
+</sub>
+
+</div>
 
 
 
