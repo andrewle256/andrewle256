@@ -28,11 +28,19 @@
 <div align="center" style="
   background: linear-gradient(135deg, #1a1b26, #2a2b3c, #3c3d5a);
   border-radius: 20px;
-  padding: 20px;
-  max-width: 550px;
-  margin: 20px auto;
+  padding: 30px;
+  margin: 25px 0;
+  border: 1px solid #4CAF50;
+  box-shadow: 0 0 15px rgba(76, 175, 80, 0.3);
+  position: relative;
+  overflow: hidden;
+  font-family: 'Courier New', monospace;
   color: #e0e7ff;
-  font-family: monospace;
+  text-align: center;
+">
+
+```math
+\large \text{Theorem of Development:}
 ">
 
 ```math 
