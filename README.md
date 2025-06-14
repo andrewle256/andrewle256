@@ -26,9 +26,6 @@
 
 <div align="center">
 
-## 🧠 Mathematical Wisdom
-
----
 
 ### ✨ **Theorem of Development**
 
