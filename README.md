@@ -1,9 +1,6 @@
 ## Hi there 👋 I’m Andrew — math nerd turned finance builder
 🎓 Studying Mathematics, Economics, and Public Law @ UofT<br/>
 ⚖️ Build from first principles, optimize with algorithms, think contrarian<br/>
-💻 On a mission to blend AI, finance & logic into tools that actually maximize alpha<br/>
-🏦 Experience at Manulife and in asset management<br/>
-📍 Based in North America, aspiring to be a venture capitalist 🌍<br/>
 
 
 # 💻 Tech Stack:
